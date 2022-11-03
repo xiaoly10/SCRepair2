@@ -1,6 +1,4 @@
-"""
-@author: Xiao Liang Yu
-"""
+
 import docker
 from typing import Any, Sequence, Iterable, ClassVar, Optional
 from pathlib import Path
