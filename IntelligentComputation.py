@@ -1,6 +1,4 @@
-"""
-@author: Xiao Liang Yu
-"""
+
 from .IN import RepairCore, PatchSynthesizer, ProblemDetector, PatchInfo, ProblemDetectorResult, DetectedVulnerability, VulnerabilityInfo, PlausiblePatch, RepairTarget, ProblemDetectorResults, MutationSequence, CodeRange
 from pathlib import Path
 from typing import Iterable, Tuple, Optional, List, Union, Type, Dict, NoReturn, Any, AsyncGenerator, Set, Sequence, DefaultDict, Callable, cast, Awaitable
