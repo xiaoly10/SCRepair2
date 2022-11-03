@@ -1,6 +1,4 @@
-"""
-@author: Xiao Liang Yu
-"""
+
 import os
 from pathlib import Path
 from typing import Dict, Sequence, Optional, Tuple, Union, cast, List, AsyncContextManager, Any
